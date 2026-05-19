@@ -1,0 +1,2 @@
+docling>=2.94.0
+streamlit>=1.57.0
